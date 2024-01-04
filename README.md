@@ -1,4 +1,5 @@
-***Jenkins and ArgoCD GitOps Demo for Kubernetes Deployment***
+**Jenkins and ArgoCD GitOps Demo for Kubernetes Deployment**
+
 The CI part is managed by Jenkins, while the CD part is handled by ArgoCD using the GitOps approach.
 
 Jenkins Installation
